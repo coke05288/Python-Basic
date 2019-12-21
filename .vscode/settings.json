@@ -1,3 +1,4 @@
 {
-    "python.pythonPath": "basic\\Scripts\\python.exe"
+    "python.pythonPath": "basic\\Scripts\\python.exe",
+    "python.formatting.provider": "yapf"
 }
