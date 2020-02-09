@@ -6,4 +6,4 @@
 
 [해당 과정의 링크입니다.](https://www.fastcampus.co.kr/degree_online_pyweb/)
 
-- - **2019.12.24.TUE** :  Clear Course
+- **2019.12.24.TUE** :  Clear Course
